@@ -1,0 +1,6 @@
+user.id = 1
+user.name = andrew 
+user.lastname = jackson
+user.birthday.day = 11
+user.birthday.month = 11
+user.birthday.year = 1995
